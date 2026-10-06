@@ -9,7 +9,7 @@ Possui a documentação do banco. Contém relacionamentos `n:n`.
 - Lucas José de Faria [@lucasljf](https://github.com/lucasljf)
 - Alexandre Alves Araújo
 - Camila Perez Alfonzo
-- Emanuelly Vitoria Lima da Silva
+- Emanuelly Vitoria Lima da Silva [@manuellyvt](https://github.com/manuellyvt)
 - Emilly Vitória Antônio de Lima
 - Gabriel Washington Freitas Ribeiro
 - Gilmar Alves de Oliveira Neto
